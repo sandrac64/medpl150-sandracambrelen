@@ -1,1 +1,32 @@
+<!doctype html>
 
+<html>
+
+  <head>
+
+    <title>Homework 3</title>
+
+  </head>
+
+  <body>
+
+    <h1>Shallow depth of field</h1>
+
+    <img src="shallowdepth.jpg" alt="Homework 3 shallow depth" width="400">
+
+    <br><br>
+
+<h1>Deep depth of field</h1>
+
+    <img src="deepdepth.jpg" alt="Homework 3 deep depth" width="400">
+ <br><br>
+<h1>PS Field Blur</h1>
+
+    <img src="bottle.jpg" alt="Homework 3 field blur" width="400">
+ <br><br>
+
+    <a href="index.html">Back to Home</a> <br>
+
+  </body>
+
+</html>
